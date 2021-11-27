@@ -36,5 +36,9 @@ li a:hover {
 }
 
 ol{
-    font-size: 150%
+    font-size: 150%;
+}
+
+div{
+    float: left;
 }
