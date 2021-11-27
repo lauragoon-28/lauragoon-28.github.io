@@ -35,7 +35,7 @@ li {
     background-color: rgba(0,0,0,.25);
 }
 
-    li a:hover {
-        transform: scale(1.1, 1.1);
-        background-color: blueviolet;
-    }
+li a:hover {
+    transform: scale(1.1, 1.1);
+    background-color: blueviolet;
+}
