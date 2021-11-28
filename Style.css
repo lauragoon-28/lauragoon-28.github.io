@@ -20,7 +20,7 @@ ul {
 
 li a {
     background-color: white;
-    color: mediumpurple;
+    color: deeppink;
     text-decoration: none;
     text-transform: uppercase;
     padding: 20px;
@@ -41,4 +41,9 @@ ol{
 
 div{
     float: left;
+}
+
+h2{
+    float: left;
+    font-size: 150%;
 }
