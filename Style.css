@@ -37,13 +37,24 @@ li a:hover {
 
 ol{
     font-size: 150%;
+    float: left;
 }
 
-div{
+p {
     float: left;
 }
 
 h2{
     float: left;
     font-size: 150%;
+    color: white;
+}
+
+img{
+    float: left;
+    height: 50%;
+    width: 50%;
+    color: darkturquoise;
+    padding-right: 50%;
+    padding-bottom: 5%;
 }
