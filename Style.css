@@ -44,14 +44,16 @@ h3{
     color: hotpink;
     margin-top: 2%;
     margin-bottom: 0;
+
 }
 
 h2{
     float: left;
-    font-size: 200%;
+    font-size: 250%;
     color: white;
     padding: .5%;
     margin: 0;
+
 }
 
 img {
