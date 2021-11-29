@@ -69,3 +69,9 @@ img {
     list-style-type: none;
 }
 
+ol{
+    margin: 5%;
+    padding-left: 30%;
+    font-size: 130%;
+
+}
