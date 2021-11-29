@@ -49,7 +49,7 @@ h3{
 
 h2{
     float: left;
-    font-size: 250%;
+    font-size: 300%;
     color: white;
     padding: .5%;
     margin: 0;
@@ -74,10 +74,5 @@ img {
 ol{
     margin: 5%;
     padding-left: 30%;
-    font-size: 130%;
-
-}
-
-.coding{
-    float: left;
+    font-size: 200%;
 }
